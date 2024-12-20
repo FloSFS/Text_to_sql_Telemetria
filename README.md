@@ -11,7 +11,7 @@ Esse repositório conta com:
 ------------------------------------------------------------------------------------------------------------------------
 O modelo foi feito no collab e com apoio da VAI Academy, ele não está completo, ainda está em construção a inclusão de gráficos nas analises feitas. Qualquer ajuda é bem-vinda!
 
-Quer ver outros trabalhos ou saber mais sobre esse? 
+Quer ver sobre o CONTEXTO desse trabalho?
 https://luanastoppa100.wixsite.com/luanastoppadatascien/portfolio-collections/my-portfolio/meu-projeto
 
 Vem conferir no meu portifólio:
